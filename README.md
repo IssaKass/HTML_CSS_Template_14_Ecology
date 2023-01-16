@@ -9,4 +9,5 @@ Responsive Nature Website
 
 <a href="https://issakass.github.io/HTML_CSS_Template_14_Ecology/"><strong>➥ Live Demo</strong></a>
 
-![preview img](/preview.png)
+![preview desktop img](/preview/preview-desktop.png)
+![preview phone img](/preview/preview-phone.png)
